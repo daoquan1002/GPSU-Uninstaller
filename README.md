@@ -1,3 +1,5 @@
+<b><a href="https://github.com/daoquan1002/GPSU-Uninstaller/blob/main/README_en.md">English</a>  丨 Vietnamese</b>
+   </p>
 # WARNING!!!
 Google has taken strong measures to improve Android security. Therefore, from Android 14 and above, don't use this module to avoid causing unwanted system errors.
 
