@@ -1,9 +1,6 @@
 <b><a href="https://github.com/daoquan1002/GPSU-Uninstaller/blob/main/README.md">Vietnamese</a>  丨 English</b>
    </p>
 
-# WARNING!!!
-Google has taken strong measures to improve Android security. Therefore, from Android 14 and above, don't use this module to avoid causing unwanted system errors.
-
 # Google Play System Update Uninstaller
 
 This module is used to uninstall Google Play system updates when the device encounters various issues (like Zygisk)
