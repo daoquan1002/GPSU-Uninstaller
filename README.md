@@ -1,9 +1,6 @@
 <b><a href="https://github.com/daoquan1002/GPSU-Uninstaller/blob/main/README_en.md">English</a>  丨 Vietnamese</b>
    </p>
 
-# CẢNH BÁO!!!
-Google đã có những biện pháp mạnh mẽ để cải thiện bảo mật Android. Do đó, từ Android 14 trở lên, không sử dụng mô-đun này để tránh gây ra lỗi hệ thống không mong muốn.
-
 # Trình gỡ cài đặt cập nhật hệ thống Google Play
 
 Mô-đun này được sử dụng để gỡ cài đặt các bản cập nhật hệ thống Google Play khi thiết bị gặp phải nhiều sự cố khác nhau (như Zygisk)
