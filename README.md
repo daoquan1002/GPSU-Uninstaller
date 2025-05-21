@@ -1,26 +1,25 @@
-<b><a href="https://github.com/daoquan1002/GPSU-Uninstaller/blob/main/README_en.md">English</a>  丨 Vietnamese</b>
+<b><a href="https://github.com/daoquan1002/GPSU-Uninstaller/blob/main/README-vi.md">Vietnamese</a>  丨 English</b>
    </p>
 
-# Trình gỡ cài đặt cập nhật hệ thống Google Play
+# Google Play System Update Uninstaller
 
-Mô-đun này được sử dụng để gỡ cài đặt các bản cập nhật hệ thống Google Play khi thiết bị gặp phải nhiều sự cố khác nhau (như Zygisk)
+This module is used to uninstall Google Play system updates when the device encounters various issues (like Zygisk)
 
-<p>
-  <img src="https://raw.githubusercontent.com/daoquan1002/GPSU-Uninstaller/refs/heads/main/screenshot.jpg" width="200" />
-</p>
+<b><a href="https://raw.githubusercontent.com/daoquan1002/GPSU-Uninstaller/refs/heads/main/screenshot.jpg">Screenshot</a>
+   </p>
 
-# Tại sao chúng ta cần mô-đun này?
-- Do bản vá tháng 8 gần đây (và các bản cập nhật trở lên) của bản cập nhật hệ thống Google Play, các quy tắc của Zygisk bị phá vỡ, khiến nó không thể bật hoặc không hoạt động bình thường
-- Các trường hợp khác có thể do rom không tương thích cũng dẫn đến lỗi phần cứng như camera, mic,...
+# Why do we need this module?
+- Due to the recent August (and above) patch of the Google Play system update, Zygisk's rules are broken, making it unable to enable or not working properly
+- Other cases may be due to incompatible roms which also lead to hardware errors such as camera, mic,...
 
-# Yêu cầu
-- Chỉ dành cho root sử dụng Magisk hoặc KernelSU
+# Requirements
+- Only for root using Magisk/KernelSU/APatch
 
-# Cách cài đặt
-- Tải xuống mô-đun mới nhất trong trang phát hành
-- Cài đặt mô-đun trong Magisk/KernelSU
-- Khởi động lại và khởi động lại sau khi thiết bị khởi động bình thường
-- Hoàn tất
+# How to install
+- Download module latest in release page
+- Install module in Magisk/KernelSU/APatch
+- Reboot
+- Done
 
-# Xem trước
+# Preview
 - https://youtu.be/rXaRhsP_2RM
