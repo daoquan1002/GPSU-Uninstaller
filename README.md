@@ -4,7 +4,7 @@ This module is used to uninstall Google Play system updates when the device enco
 
 # Why do we need this module?
 - Due to the recent August (and above) patch of the Google Play system update, Zygisk's rules are broken, making it unable to enable or not working properly
-- Other cases may be due to incompatible roms which also lead to hardware errors such as camera, mic,...
+- Other cases may be due to incompatible devices which also lead to hardware errors such as camera, mic,...
 
 # What will be removed?
 (See details in [action.sh](https://github.com/daoquan1002/GPSU-Uninstaller/blob/main/action.sh) file)
