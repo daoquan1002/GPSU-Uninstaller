@@ -19,4 +19,3 @@ sleep 5
 rm -r /data/apex/active
 touch /data/apex/active
 echo Done! Reboot to take effect.
-sleep 5
