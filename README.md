@@ -6,6 +6,9 @@ This module is used to uninstall Google Play system updates when the device enco
 - Due to the recent August (and above) patch of the Google Play system update, Zygisk's rules are broken, making it unable to enable or not working properly
 - Other cases may be due to incompatible roms which also lead to hardware errors such as camera, mic,...
 
+# What will be removed?
+(See details in action.sh file)
+
 # Requirements
 - Only for root using Magisk/KernelSU/APatch
 
