@@ -1,0 +1,6 @@
+id=GPSU-Uninstaller
+name=Google Play System Update Uninstaller
+version=v4 (20250521)
+versionCode=20250521
+author=Quan.
+description=This module is used to uninstall Google Play system updates when the device encounters various issues (like Zygisk)
