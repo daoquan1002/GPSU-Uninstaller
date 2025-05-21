@@ -7,7 +7,7 @@ This module is used to uninstall Google Play system updates when the device enco
 - Other cases may be due to incompatible roms which also lead to hardware errors such as camera, mic,...
 
 # What will be removed?
-(See details in action.sh file)
+(See details in [action.sh](https://github.com/daoquan1002/GPSU-Uninstaller/blob/main/action.sh) file)
 
 # Requirements
 - Only for root using Magisk/KernelSU/APatch
