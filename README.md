@@ -11,7 +11,7 @@ This module is used to uninstall Google Play system updates when the device enco
 
 # Requirements
 - Only for root using Magisk/KernelSU/APatch
-- If you want to go for the non-root version, you can use Google's tool [here](https://flash.android.com/tools/google_play_system_update_rollbacks) (not supported for all devices)
+- If you want to go for the non-root version, you can use Google Flash Tool [here](https://flash.android.com/tools/google_play_system_update_rollbacks) (not supported for all devices)
 
 # How to install
 - Download module latest in release page
