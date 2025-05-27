@@ -16,9 +16,10 @@ This module is used to uninstall Google Play system updates when the device enco
 # How to install
 - Download module latest in release page
 - Install module in Magisk/KernelSU/APatch
-- The module will perform the first uninstallation
+- The module will start uninstalling for the first time
 - Reboot
 - Done
+- You can use the "Action" button to uninstall it again if it is reinstalled or if you don't use it anymore simply remove the module
 
 # Preview
 - https://youtu.be/rXaRhsP_2RM
