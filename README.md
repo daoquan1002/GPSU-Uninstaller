@@ -8,6 +8,9 @@ This module is used to uninstall Google Play System Update when the device encou
 - Feeling unstable device performance
 - More...
 
+# Note
+- This module only works on devices that support Project Mainline (usually devices running Stock ROM). If you are on Custom ROM or your device doesn't support Project Mainline, you can skip this module
+
 # What will be removed?
 (See details in [action.sh](https://github.com/daoquan1002/GPSU-Uninstaller/blob/main/action.sh) file)
 
