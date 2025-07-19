@@ -1,5 +1,5 @@
 # Warning
-I have given you a warning that it may not work with all devices and I will not be responsible if anything happens. Please check the code written in the module for consideration before trying it.
+I have given you a warning since I no longer update this module and that it may not work with all devices. I will not be responsible if anything happens. Please check the code written in the module for consideration before trying it.
 
 # Google Play System Update Uninstaller
 
