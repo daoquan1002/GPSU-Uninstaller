@@ -1,3 +1,6 @@
+# Warning
+I have given you a warning that it may not work with all devices and I will not be responsible if anything happens. Please check the code written in the module for consideration before trying it.
+
 # Google Play System Update Uninstaller
 
 This module is used to uninstall Google Play System Update when the device encounters various issues (like Zygisk)
